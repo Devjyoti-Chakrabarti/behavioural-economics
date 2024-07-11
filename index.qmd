@@ -8,13 +8,13 @@ author:
 theme: lux      
 ---
 
-> "The purely economic man is indeed close to being a social moron. Economic theory has been much preoccupied with this rational fool."
->
-> -- Amartya Sen
-
 > "We think, each of us, that we're much more rational than we are."
 >
 > -- Daniel Kahneman
+
+> "The purely economic man is indeed close to being a social moron. Economic theory has been much preoccupied with this rational fool."
+>
+> -- Amartya Sen
 
 ### Overview {#overview}
 
