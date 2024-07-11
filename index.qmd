@@ -18,7 +18,7 @@ theme: lux
 
 ### Overview {#overview}
 
----
+------------------------------------------------------------------------
 
 In recent decades, economics has increasingly relied on quantitative models to understand and explore economic phenomena. Central to many of these models is the idea that agents act as rational beings and make rational choices. The emergence of behavioural economics is contextualized as a question of validity to such assumptions and a response to addressing some critical problems that irrationality raises in economic modelling. Integral to this endeavor is understanding the difference between homo-economicus (the economic man) and homo-sapiens (real humans). It is crucial to understand why economic models that assume agents behave as homo-economicus often fail in real life.
 
@@ -26,17 +26,17 @@ The course aims to start from the core assumptions which are often made in econo
 
 ### Lecture Content {#lecture_content}
 
----
+------------------------------------------------------------------------
 
 -   Week 1. Homo-economicus OR Homo-sapiens
     -   Day 1. Introductions
-    -   Day 2. Into the World of (ir)Rationality
-    -   Day 3. Bounds of Rationality
+    -   Day 2. [Into the World of (ir)Rationality](day2.qmd){style="text-decoration: none"}
+    -   Day 3. [Bounds of Rationality](day3.qmd){style="text-decoration: none"}
     -   Day 4. Trip to the Fitzwilliam Museum
-    -   Day 5. All About Heuristics
+    -   Day 5. [All About Heuristics](day5.qmd){style="text-decoration: none"}
 
-### Assessment  {#assessment}
+### Assessment {#assessment}
 
----
+------------------------------------------------------------------------
 
 Students will be split into groups of 2-3 and will be required to research into any industry/theme of their choosing seeing how behavioural economics is used in that industry. The students will be evaluated based on their presentations of their research in class and a short writeup that would be submitted to the instructor about their research.  
