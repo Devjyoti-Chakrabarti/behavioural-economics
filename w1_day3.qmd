@@ -1,0 +1,15 @@
+---
+title: "Day 3: Bounds of Rationality" 
+author:    
+ - name: Devjyoti Chakrabarti     
+   email: devjyotichakrabarti@gmail.com 
+theme: lux       
+---
+
+### Overview 
+
+---
+
+### Additional Reading 
+
+---

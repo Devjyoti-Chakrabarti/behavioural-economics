@@ -1,0 +1,109 @@
+---
+title: "Day 2: Into the World of (ir)Rationality"
+author: 
+  - name: Devjyoti Chakrabarti
+    affiliation: University of Oxford 
+format: 
+     revealjs:
+      theme: default
+      incremental: true 
+---
+
+::: {.incremental style="font-size: 0.875em"}
+### Rationality
+
+-   When faced with choices, individuals choose the option which derives them the maximum possible benefit or utility.
+
+-   Our Homo-Economicus solves $$ \underset{x_i^t \in X_i}{\text{max}} \sum_{t=0}^{\infty} \delta^t \sum_{s_t \in S} p(s_t) U(x_i^t|s_t)$$
+    $\delta:$ Discount Factor
+
+    $p(\cdot):$ Probability
+
+    $U(\cdot):$ Utility Function
+
+    $S:$ State Space
+
+    $X_i:$ Set of consumption bundles
+:::
+
+---
+
+::: {.nonincremental style="font-size: 0.875em"}
+Assumptions about the agent:
+
+1.  has well defined preferences and beliefs
+
+    -   unlimited willpower
+
+    -   purely self-interested
+
+    -   perfectly Bayesian
+
+2.  can make optimal choices given their preferences and beliefs
+
+    -   unlimited cognitive abilities
+:::
+
+---
+
+::: {.nonincremental style="font-size: 0.875em"}
+Possible relaxations of standard model to accommodate humans:
+
+1.  Non-standard preferences
+
+    -   Time preferences: $\delta$ might not be stable
+    -   Risk preferences: $U(x_i|s,r)$ outcomes compared to some reference point $r$
+    -   Social preferences: $U(x_i, x_{-i}|s)$ agents care about others' outcomes $x_{-i}$
+
+2.  Non-standard beliefs
+
+    -   Misperception of $p(s)$
+
+3.  Non-standard decision making
+
+    -   Limited attention, sensitivity to framing, reliance on heuristics
+:::
+
+---
+
+::: {.incremental style="font-size: 0.875em"}
+### Framing Effects
+
+Tversky & Kahneman (1981)
+
+Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows:
+
+-   Program A: 200 people will be saved
+
+    Program B: $1/3$ probability 600 will be saved, $2/3$ probability that no people will be saved
+
+-   72 percent choose Program A and 28 percent choose Program B \[N=152\]
+:::
+
+---
+
+<div>
+
+-   Program C: 400 people will die
+
+    Program D: $1/3$ probability nobody will die, $2/3$ probability that 600 people will die
+
+-   22 percent choose Program C and 78 percent choose Program D \[N=155\]
+
+</div>
+
+---
+
+<div>
+
+### CAVEATS! 
+
+-   Adding non-standard assumptions does not imply an abandoning of traditional methods
+
+-   Despite limits to their empirical validity and applicability, they are sometimes appropriate (even if not exactly right)
+
+-   Old models get certain things wrong but they also get many things right
+
+-   Our goal is to integrate behavioural economics into mainstream economics
+
+</div>

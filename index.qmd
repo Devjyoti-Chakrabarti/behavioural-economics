@@ -34,6 +34,12 @@ The course aims to start from the core assumptions which are often made in econo
     -   Day 3. [Bounds of Rationality](day3.qmd){style="text-decoration: none"}
     -   Day 4. Trip to the Fitzwilliam Museum
     -   Day 5. [All About Heuristics](day5.qmd){style="text-decoration: none"}
+-   Week 2. Exploring the World of Behavioural Economics
+    -   Day 1. Introductions
+    -   Day 2. Trip to the Behavioural Lab at LSE
+    -   Day 3.
+    -   Day 4.
+    -   Day 5. Presentations
 
 ### Assessment {#assessment}
 
