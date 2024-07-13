@@ -6,10 +6,6 @@ author:
 theme: lux      
 ---
 
-### Overview 
-
----
-
 Find the content here
 
 [Slides](into_the_world_of_rationality.qmd){style="text-decoration:none"}
