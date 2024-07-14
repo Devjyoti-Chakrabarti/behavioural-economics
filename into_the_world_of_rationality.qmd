@@ -14,8 +14,7 @@ format:
 
 -   When faced with choices, individuals choose the option which derives them the maximum possible benefit or utility.
 
--   Our Homo-Economicus solves $$ \underset{x_i^t \in X_i}{\text{max}} \sum_{t=0}^{\infty} \delta^t \sum_{s_t \in S} p(s_t) U(x_i^t|s_t)$$
-    $\delta:$ Discount Factor
+-   Our Homo-Economicus solves $$ \underset{x_i^t \in X_i}{\text{max}} \sum_{t=0}^{\infty} \delta^t \sum_{s_t \in S} p(s_t) U(x_i^t|s_t)$$ $\delta:$ Discount Factor
 
     $p(\cdot):$ Probability
 
@@ -26,7 +25,7 @@ format:
     $X_i:$ Set of consumption bundles
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {.nonincremental style="font-size: 0.875em"}
 Assumptions about the agent:
@@ -44,7 +43,7 @@ Assumptions about the agent:
     -   unlimited cognitive abilities
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {.nonincremental style="font-size: 0.875em"}
 Possible relaxations of standard model to accommodate humans:
@@ -64,7 +63,7 @@ Possible relaxations of standard model to accommodate humans:
     -   Limited attention, sensitivity to framing, reliance on heuristics
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {.incremental style="font-size: 0.875em"}
 ### Framing Effects
@@ -80,7 +79,7 @@ Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease,
 -   72 percent choose Program A and 28 percent choose Program B \[N=152\]
 :::
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -92,11 +91,11 @@ Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease,
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### CAVEATS! 
+### CAVEATS!
 
 -   Adding non-standard assumptions does not imply an abandoning of traditional methods
 
