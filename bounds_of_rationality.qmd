@@ -1,1 +1,46 @@
+---
+title: "Day 2: Into the World of (ir)Rationality"
+author: 
+  - name: Devjyoti Chakrabarti
+    affiliation: University of Oxford 
+format: 
+     revealjs:
+      theme: default
+      incremental: true 
+---
 
+<div>
+
+### Recap 
+
+-   There is a divergence between the predictions of standard economics models and observed human behaviour
+
+-   The assumption of rationality has its limits
+
+-   Expected Utility Theory
+
+-   Framing effects
+
+</div>
+
+---
+
+<div>
+
+### Today's Agenda
+
+-   Explore bounded rationality and its implications
+
+-   Understand some important cognitive biases
+
+</div>
+
+---
+
+<div>
+
+### Rules of Thumb / Heuristics 
+
+-   People make shortcuts
+
+</div>

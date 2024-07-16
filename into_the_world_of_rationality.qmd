@@ -9,6 +9,34 @@ format:
       incremental: true 
 ---
 
+<div>
+
+[Shepard tables](https://en.wikipedia.org/wiki/Shepard_tables){style="text-decoration:none"}
+
+![](images/clipboard-4091288017.png){fig-align="center"}
+
+</div>
+
+---
+
+<div>
+
+#### What animal do you see in the image? 
+
+![](images/clipboard-3011836111.png){fig-align="center"}
+
+</div>
+
+<div>
+
+#### Is the dot on the front or in the back of the cube?
+
+![](images/clipboard-432469204.png){fig-align="center"}
+
+</div>
+
+---
+
 ::: {.incremental style="font-size: 0.875em"}
 ### Rationality
 
@@ -42,13 +70,16 @@ Assumptions about the agent:
 ::: {.nonincremental style="font-size: 0.875em"}
 Possible relaxations of standard model to accommodate humans:
 
-1.  Non-standard preferences
+1.  Bounded Willpower
 
     -   Time preferences: $\delta$ might not be stable
     -   Risk preferences: $U(x_i|r)$ outcomes compared to some reference point $r$
+
+2.  Bounded self-interest
+
     -   Social preferences: $U(x_i, x_{-i})$ agents care about others' outcomes $x_{-i}$
 
-2.  Non-standard decision making
+3.  Bounded Rationality
 
     -   Limited attention, sensitivity to framing, reliance on heuristics
 :::
@@ -94,5 +125,41 @@ Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease,
 -   Old models get certain things wrong but they also get many things right
 
 -   Our goal is to integrate behavioural economics into mainstream economics
+
+</div>
+
+---
+
+::: {style="font-size: 0.775em; text-align: justify"}
+### Expected Utility Theory 
+
+-   Consider the following bet. A fair coin is tossed, if it lands on heads I pay you 10 pounds. However, if it lands on tails you have to pay me 10 pounds. What is your expected payoff
+
+    from playing in this bet? -
+
+-   $$
+    \begin{align*}
+       \text{Expected Value} &= Pr(Heads) * Payoff(Heads) + \\
+    & Pr(Tails) * Payoff(Tails) \\
+    &= 0.5 * 10 + 0.5 * (-10) = 0
+    \end{align*}
+    $$
+
+-   We want start thinking about how people make decisions about uncertain outcomes and we do that using lotteries. Each lottery has to specify two elements:
+
+    -   payoffs and
+
+    -   the probability of getting those payoffs
+:::
+
+---
+
+<div>
+
+-   Expected Utility Theory is a reformulation of our earlier result for uncertain outcomes.
+
+-   It states that when faced with risky prospects, agents choose with the prospect which maximizes their expected utility.
+
+-   Back to framing effects
 
 </div>

@@ -6,10 +6,16 @@ author:
 theme: lux       
 ---
 
-### Overview 
+### Overview
 
----
+------------------------------------------------------------------------
 
-### Additional Reading 
+You can find the slides here: [Slides](bounds_of_rationality.qmd)
 
----
+### Additional Reading
+
+------------------------------------------------------------------------
+
+This is a collection of cognitive biases with some very interesting examples: <https://thedecisionlab.com/biases>
+
+Read about any two that interest you.
