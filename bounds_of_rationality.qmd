@@ -1,5 +1,5 @@
 ---
-title: "Day 2: Into the World of (ir)Rationality"
+title: "Day 3: Bounds of Rationality"
 author: 
   - name: Devjyoti Chakrabarti
     affiliation: University of Oxford 
