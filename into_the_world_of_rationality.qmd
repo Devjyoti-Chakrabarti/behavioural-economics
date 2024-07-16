@@ -14,15 +14,11 @@ format:
 
 -   When faced with choices, individuals choose the option which derives them the maximum possible benefit or utility.
 
--   Our Homo-Economicus solves $$ \underset{x_i^t \in X_i}{\text{max}} \sum_{t=0}^{\infty} \delta^t \sum_{s_t \in S} p(s_t) U(x_i^t|s_t)$$ $\delta:$ Discount Factor
-
-    $p(\cdot):$ Probability
+-   Our Homo-Economicus solves $$ \underset{x_i^t \in X_i}{\text{max}} \sum_{t=0}^{\infty} \delta^t U(x_i^t)$$ $\delta:$ Discount Factor
 
     $U(\cdot):$ Utility Function
 
-    $S:$ State Space
-
-    $X_i:$ Set of consumption bundles
+    $X:$ Set of consumption bundles
 :::
 
 ------------------------------------------------------------------------
@@ -35,8 +31,6 @@ Assumptions about the agent:
     -   unlimited willpower
 
     -   purely self-interested
-
-    -   perfectly Bayesian
 
 2.  can make optimal choices given their preferences and beliefs
 
@@ -51,14 +45,10 @@ Possible relaxations of standard model to accommodate humans:
 1.  Non-standard preferences
 
     -   Time preferences: $\delta$ might not be stable
-    -   Risk preferences: $U(x_i|s,r)$ outcomes compared to some reference point $r$
-    -   Social preferences: $U(x_i, x_{-i}|s)$ agents care about others' outcomes $x_{-i}$
+    -   Risk preferences: $U(x_i|r)$ outcomes compared to some reference point $r$
+    -   Social preferences: $U(x_i, x_{-i})$ agents care about others' outcomes $x_{-i}$
 
-2.  Non-standard beliefs
-
-    -   Misperception of $p(s)$
-
-3.  Non-standard decision making
+2.  Non-standard decision making
 
     -   Limited attention, sensitivity to framing, reliance on heuristics
 :::

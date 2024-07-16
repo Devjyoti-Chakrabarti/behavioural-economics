@@ -6,10 +6,16 @@ author:
 theme: lux      
 ---
 
-Find the content here
+### Overview
 
-[Slides](into_the_world_of_rationality.qmd){style="text-decoration:none"}
+---
+
+Rationality is one of the most over-used words in economics and a recurring assumption in a lot of influential models in the discipline. Assuming that agents seek to maximize their benefit appears at first glance to be intuitive and even reasonable. However a careful peeling away of the layers of what rationality means leads to the unraveling of some of these models. This lecture introduces this tenet of economics and marks the beginning of our two week journey of exploring the depths of nuance this over-used word holds.
+
+The slides for this lecture can be found here: [Into the World of (ir)Rationality](into_the_world_of_rationality.qmd){style="text-decoration:none"}
 
 ### Additional Reading
 
 ------------------------------------------------------------------------
+
+Tversky, A., & Kahneman, D. (1981). The Framing of Decisions and the Psychology of Choice. *Science*, *211*(4481), 453–458. http://www.jstor.org/stable/1685855
