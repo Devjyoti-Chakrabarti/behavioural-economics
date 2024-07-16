@@ -346,11 +346,9 @@ Devjyoti Chakrabarti
 <h3>Rationality</h3>
 <ul>
 <li class="fragment"><p>When faced with choices, individuals choose the option which derives them the maximum possible benefit or utility.</p></li>
-<li class="fragment"><p>Our Homo-Economicus solves <span class="math display">\[ \underset{x_i^t \in X_i}{\text{max}} \sum_{t=0}^{\infty} \delta^t \sum_{s_t \in S} p(s_t) U(x_i^t|s_t)\]</span> <span class="math inline">\(\delta:\)</span> Discount Factor</p>
-<p><span class="math inline">\(p(\cdot):\)</span> Probability</p>
+<li class="fragment"><p>Our Homo-Economicus solves <span class="math display">\[ \underset{x_i^t \in X_i}{\text{max}} \sum_{t=0}^{\infty} \delta^t U(x_i^t)\]</span> <span class="math inline">\(\delta:\)</span> Discount Factor</p>
 <p><span class="math inline">\(U(\cdot):\)</span> Utility Function</p>
-<p><span class="math inline">\(S:\)</span> State Space</p>
-<p><span class="math inline">\(X_i:\)</span> Set of consumption bundles</p></li>
+<p><span class="math inline">\(X:\)</span> Set of consumption bundles</p></li>
 </ul>
 </section>
 </section>
@@ -363,7 +361,6 @@ Devjyoti Chakrabarti
 <ul>
 <li><p>unlimited willpower</p></li>
 <li><p>purely self-interested</p></li>
-<li><p>perfectly Bayesian</p></li>
 </ul></li>
 <li><p>can make optimal choices given their preferences and beliefs</p>
 <ul>
@@ -380,12 +377,8 @@ Devjyoti Chakrabarti
 <li><p>Non-standard preferences</p>
 <ul>
 <li>Time preferences: <span class="math inline">\(\delta\)</span> might not be stable</li>
-<li>Risk preferences: <span class="math inline">\(U(x_i|s,r)\)</span> outcomes compared to some reference point <span class="math inline">\(r\)</span></li>
-<li>Social preferences: <span class="math inline">\(U(x_i, x_{-i}|s)\)</span> agents care about others’ outcomes <span class="math inline">\(x_{-i}\)</span></li>
-</ul></li>
-<li><p>Non-standard beliefs</p>
-<ul>
-<li>Misperception of <span class="math inline">\(p(s)\)</span></li>
+<li>Risk preferences: <span class="math inline">\(U(x_i|r)\)</span> outcomes compared to some reference point <span class="math inline">\(r\)</span></li>
+<li>Social preferences: <span class="math inline">\(U(x_i, x_{-i})\)</span> agents care about others’ outcomes <span class="math inline">\(x_{-i}\)</span></li>
 </ul></li>
 <li><p>Non-standard decision making</p>
 <ul>
