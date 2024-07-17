@@ -145,11 +145,13 @@ Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease,
     \end{align*}
     $$
 
--   We want start thinking about how people make decisions about uncertain outcomes and we do that using lotteries. Each lottery has to specify two elements:
+-   We want start thinking about how people make decisions about uncertain outcomes and we do that using lotteries. Each lottery has to specify three elements:
 
-    -   payoffs and
+    -   events
 
-    -   the probability of getting those payoffs
+    -   the probability of those events and
+
+    -   payoffs associated with those events
 :::
 
 ---
