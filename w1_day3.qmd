@@ -10,7 +10,9 @@ theme: lux
 
 ------------------------------------------------------------------------
 
-You can find the slides here: [Slides](bounds_of_rationality.qmd)
+Rationality has its limits. People do not have unlimited cognitive abilities to carefully consider all options before making decisions. So people take shortcuts to simplify the decision making process. However, these shortcuts can be the source of some major bias and errors. We begin this lecture by discussing what bounded rationality is in economics and then go on to discuss about some of these important shortcuts and biases.
+
+The slides for this lecture can be found here: [Slides](bounds_of_rationality.qmd)
 
 ### Additional Reading
 
