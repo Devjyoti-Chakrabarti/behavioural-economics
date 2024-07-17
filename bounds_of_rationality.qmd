@@ -94,7 +94,7 @@ format:
 
     7.  Gambler's Fallacy
 
-    8.  Authority Bias
+    8.  Authority
 :::
 
 ---
@@ -102,6 +102,10 @@ format:
 <div>
 
 ### Anchoring Bias
+
+-   The implicit process happening here is anchoring and adjustment. People start with an anchor and then start adjusting in the direction they know.
+
+-   The bias occurs because the adjustments are usually insufficient.
 
 </div>
 
@@ -129,7 +133,25 @@ format:
 
 ### Availability Bias
 
+-   People rely on immediate examples that come to mind when evaluating a specific topic, decision or method. Inherently if there is something that can be recalled it must be more important than alternative prospects not so easily recalled.
+
+-   Example: Biased assessments of risk can perversely influence how we prepare for and respond to crises, business choices, and the political process. Such misperceptions can affect policy, because some governments will allocate their resources in a way that fits with people’s fears rather than in response to the most likely dangers. \
+
 </div>
+
+---
+
+::: {.nonincremental style="font-size: 0.875em"}
+### Example: Disaster Insurance[^4][^5]
+
+-   In the period immediately after a flood, there is an increase in the purchases of flood insurance. But beyond a point this starts to steadily decline as the memories of the flood begin to fade.
+
+-   Moreover, if people know someone who has experienced damages due to a flood, they become much more likely to buy flood insurance for themselves, regardless of how susceptible they are to flood risk.
+:::
+
+[^4]: Howard Kunreuther et al., Disaster Insurance Protection: Public Policy Lessons (New York: John Wiley & Sons, 1978)
+
+[^5]: Lo, A. (2013). “The Role of Social Norms in Climate Adaptation: Mediating Risk Perception and Flood Insurance Purchase.” Global Environmental Change 23(5): 1249-1257.
 
 ---
 
@@ -137,7 +159,26 @@ format:
 
 ### Representativeness Bias
 
+-   Also called the similarity heuristic. The idea is that when asked to judge how likely it is that A belongs to category B, people answer by asking themselves how similar A is to their image or stereotype of B (that is, how “representative” A is of B).
+
+-   Like the other heuristics, while it can work in some situations it can also lead to major errors.
+    \
+
 </div>
+
+---
+
+::: {style="font-size: 0.875em"}
+### Example: Feminist Bank Tellers[^6]
+
+-   Linda is thirty-one years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice and also participated in antinuclear demonstrations.
+
+    -   What has a higher probability: Linda is a bank-teller or that Linda is a bank teller and active in the feminist movement?
+
+-   Most people in the study said that Linda was less likely to be a bank teller than to be a bank teller and active in the feminist movement.
+:::
+
+[^6]: Amos Tversky and Daniel Kahneman, “Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment,” Psychological Review 90, no. 4 (1983) 293–315
 
 ---
 
@@ -145,23 +186,78 @@ format:
 
 ### Overconfidence Bias
 
+-   This is the "above-average" effect.
+
+-   People tend to overestimate their abilities and their personal immunity to harm, distorting decisions regarding risk-taking.
+
+-   Example: A study done of professors at the University of Nebraska found that about 94 percent of professors at a large university believed they were better than the average professor.[^7]
+    \
+
+</div>
+
+[^7]: Paul C. Price, “Are You as Good a Teacher as You Think?” Thought & Action, Fall 2006, <https://csm.fresnostate.edu/psych/documents/research/Price_2006.pdf>
+
+---
+
+::: {style="font-size: 0.875em"}
+### Example: Above average MBA students?[^8]
+
+-   Richard Thaler before the start of his couse has his students fill out an anonymous survey where one of the questions is "In which decile do you expect to fall in the distribution of grades in this class?"
+
+-   Less than 5% of students expect their performance to be below the median and more than half of the class expects to perform in one of the two top deciles.
+
+-   Most students in fact put themselves in the second decile. Thaler's explanation for this is modesty. Students really think they are in the top decile but are too modest to say so.
+:::
+
+[^8]: Thaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.
+
+---
+
+<div>
+
+### Staus Quo Bias
+
+-   Loss aversion: people dislike losses more than thte like gains. So in many situations, people show a tendency for sticking to the current situation.
+
+-   A particular cause of this bias is the "yeah, whatever" heuristic. Example: Netflix TV shows.
+
+</div>
+
+---
+
+::: {style="font-size: 0.875em"}
+### Example: Retirement Savings Plans[^9]
+
+-   Most participants in retirement savings plans choose asset allocations when they join and then forget about it. A study done in the 80s, looked at the decisions of participants in a pension plan that covered many college professors in the United States. The median number of changes in the asset allocation over a lifetime was zero.
+
+-   In other words, over the course of their careers, more than half of the participants made exactly no changes to the way their contributions were being allocated. Perhaps even more telling, many married participants who were single when they joined the plan still had their mothers listed as their beneficiaries!
+:::
+
+[^9]: Samuelson and Zeckhauser, “Status Quo Bias in Decision Making.
+
+---
+
+<div>
+
+### Commitment Bias/Sunk Cost Fallacy 
+
+-   A human behaviour pattern where even in the face of negative outcomes from a decision, action or investment people continue the behaviour instead of altering their decision.
+
+-   Find justifications for increased investments into a project based on the cumulative prior investment ("sunk cost") despite new evidence suggesting that the future cost of continuing the behavior outweighs the expected benefit.
+
 </div>
 
 ---
 
 <div>
 
-### Herding Bias
+### Example: NBA drafts and Playing Time[^10]
+
+-   Teams granted more playing time to their most highly drafted players and retained them longer,even after controlling for players' on-court performance, injuries, trade status, and position played.
 
 </div>
 
----
-
-<div>
-
-### Commitment Bias
-
-</div>
+[^10]: Staw, B. M., & Hoang, H. (1995). Sunk cost in the NBA: Why draft order affects playing time and survival in pro-fessional basketball. Administrative Science Quarterly, 40, 474–493
 
 ---
 
@@ -179,6 +275,26 @@ format:
 
 ### Authority Bias 
 
+-   People are more influenced by opinions spoken by someone with authority and attribute greater accuracy to such opinions.
+
+-   People show a tendency to comply when requested/ordered by an authority figure.
+
+-   Example: Wikipedia edits
+
 </div>
 
 ---
+
+<div>
+
+### Example: [Milgram Experiment](https://en.wikipedia.org/wiki/Milgram_experiment){style="text-decoration:none"}
+
+-   Three individuals took part in each session of the experiment:
+
+    -   The "experimenter", who was in charge of the session.
+
+    -   The "teacher", a volunteer for a single session. The "teachers" were led to believe that they were merely assisting, whereas they were actually the subjects of the experiment.
+
+    -   The "learner", an actor and confederate of the experimenter, who pretended to be a volunteer.
+
+</div>

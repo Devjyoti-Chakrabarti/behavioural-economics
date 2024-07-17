@@ -17,11 +17,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-#### What animal do you see in the image? 
+#### What animal do you see in the image?
 
 ![](images/clipboard-3011836111.png){fig-align="center"}
 
@@ -35,7 +35,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ::: {.incremental style="font-size: 0.875em"}
 ### Rationality
@@ -128,10 +128,10 @@ Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease,
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ::: {style="font-size: 0.775em; text-align: justify"}
-### Expected Utility Theory 
+### Expected Utility Theory
 
 -   Consider the following bet. A fair coin is tossed, if it lands on heads I pay you 10 pounds. However, if it lands on tails you have to pay me 10 pounds. What is your expected payoff
 
@@ -154,7 +154,7 @@ Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease,
     -   payoffs associated with those events
 :::
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -163,5 +163,13 @@ Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease,
 -   It states that when faced with risky prospects, agents choose with the prospect which maximizes their expected utility.
 
 -   Back to framing effects
+
+</div>
+
+---
+
+<div>
+
+## Activity Time
 
 </div>
