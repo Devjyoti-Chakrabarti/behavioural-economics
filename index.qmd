@@ -2,7 +2,7 @@
 title: "Behavioural Economics Cambridge Tradition 2024"
 author: 
   - name: Devjyoti Chakrabarti
-    email: devjyotichakrabarti@gmail.com
+    email: devjyoti.chakrabarti@economics.ox.ac.uk 
     affiliations:
       - name: University of Oxford
 theme: lux      

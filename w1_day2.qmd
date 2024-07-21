@@ -2,7 +2,7 @@
 title: "Day 2: Into the World of (ir)Rationality"
 author: 
   - name: Devjyoti Chakrabarti
-    email: devjyotichakrabarti@gmail.com
+    email: devjyoti.chakrabarti@economics.ox.ac.uk
 theme: lux      
 ---
 
