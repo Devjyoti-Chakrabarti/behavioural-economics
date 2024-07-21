@@ -31,17 +31,9 @@ format:
 
 -   Understand two important behavioural economics theories:
 
-    1.  Prospect Theory
+    1.  Nudge Theory
 
-    2.  Nudge Theory
-
-</div>
-
----
-
-<div>
-
-### Prospect Theory 
+    2.  Prospect Theory
 
 </div>
 
@@ -242,3 +234,19 @@ format:
 -   People's desire to conform make social nudges very powerful
 
 </div>
+
+---
+
+<div>
+
+### Prospect Theory[^6] 
+
+-   Its a critique of the expected utility theory for analyzing choices under uncertainty.
+
+-   Prospect theory focuses on gains and losses (in place of expected values) and decision weights (replacing probabilities)
+
+</div>
+
+[^6]: Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, *47*(2), 263–291. https://doi.org/10.2307/1914185
+
+---

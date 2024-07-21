@@ -10,6 +10,8 @@ theme: lux
 
 ------------------------------------------------------------------------
 
+We have been thinking about the bias that are created by heuristics/mental shortcuts in the decision making process. We now want to take a step back to consider why is it that we think the way we do and how does that make our decisions susceptible to being influenced. In this regard, we explore two prominent theories of behavioural economics; nudge theory and prospect theory.
+
 The slides for this lecture can be found here: [Slides](all_about_heuristics.qmd)
 
 ### Additional Reading
