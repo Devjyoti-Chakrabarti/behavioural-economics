@@ -1,0 +1,10 @@
+---
+title: "Day 5: All About Heuristics"
+author: 
+  - name: Devjyoti Chakrabarti
+    affiliation: University of Oxford 
+format: 
+     revealjs:
+      theme: default
+      incremental: true 
+---

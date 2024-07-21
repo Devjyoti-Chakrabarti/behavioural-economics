@@ -88,13 +88,15 @@ format:
 
     4.  Overconfidence
 
-    5.  Herding
+    5.  Status Quo
 
     6.  Commitment
 
     7.  Gambler's Fallacy
 
     8.  Authority
+
+    9.  Herding
 :::
 
 ---
@@ -296,5 +298,17 @@ format:
     -   The "teacher", a volunteer for a single session. The "teachers" were led to believe that they were merely assisting, whereas they were actually the subjects of the experiment.
 
     -   The "learner", an actor and confederate of the experimenter, who pretended to be a volunteer.
+
+</div>
+
+<div>
+
+### Conclusion 
+
+-   People don't have unlimited cognitive abilities to make decisions
+
+-   To make the decision making process simpler, people rely on heuristics/mental shortcuts
+
+-   Although convenient, these shortcuts can be the source of many major errors and biases
 
 </div>

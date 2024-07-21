@@ -6,10 +6,12 @@ author:
 theme: lux      
 ---
 
-### Overview 
+### Overview
 
----
+------------------------------------------------------------------------
 
-### Additional Reading 
+The slides for this lecture can be found here: [Slides](all_about_heuristics.qmd)
 
----
+### Additional Reading
+
+------------------------------------------------------------------------
