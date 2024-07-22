@@ -241,7 +241,7 @@ format:
 
 ### Prospect Theory[^6] 
 
--   Its a critique of the expected utility theory for analyzing choices under uncertainty.
+-   Emerging out of a series of empirical results, it is a critique of the expected utility theory for analyzing choices under uncertainty.
 
 -   Prospect theory focuses on gains and losses (in place of expected values) and decision weights (replacing probabilities)
 
@@ -250,3 +250,86 @@ format:
 [^6]: Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, *47*(2), 263–291. https://doi.org/10.2307/1914185
 
 ---
+
+<div>
+
+### Certainty Effects 
+
+-   In expected utility theory, the utilities of outcomes are weighted by their probabilities.
+
+-   Problem 1: Choose between
+
+    +-----------------------+----------------------+
+    | A                     | **B**                |
+    +:=====================:+:====================:+
+    | 2500 with prob. 0.33  | 2400 with certainty  |
+    |                       |                      |
+    | 2400 with prob 0.66   |                      |
+    |                       |                      |
+    | 0 with prob. 0.01     |                      |
+    +-----------------------+----------------------+
+
+</div>
+
+---
+
+::: {style="font-size: 0.775em"}
+-   Problem 2: Choose between
+
+    +----------------------+----------------------+
+    | C                    | D                    |
+    +:====================:+:====================:+
+    | 2500 with prob. 0.33 | 2400 with prob. 0.34 |
+    |                      |                      |
+    | 0 with prob. 0.67    | 0 with prob. 0.66    |
+    +----------------------+----------------------+
+
+-   For Problem 1, 82% choose option B and 18% choose option A ($N=72$). For Problem 2, 83% choose option C and the remaining option D ($N=72$).
+
+-   But for $u(0) = 0$
+
+    $$
+    \begin{align*}
+       u(2400) &> 0.33 u(2500) + 0.66 u(2400) \text{ and} \\
+       0.34 u(2400) &> 0.33 u(2500)
+    \end{align*}
+    $$
+
+-   Certainty effect: people overweight outcomes that are considered certain, relative to outcomes which are merely probable. Certainty increases the aversiveness of losses as well as the desirability of gains.
+:::
+
+---
+
+<div>
+
+### Loss Aversion 
+
+</div>
+
+---
+
+<div>
+
+### Reference Dependence 
+
+</div>
+
+---
+
+<div>
+
+### Risk Orientation
+
+</div>
+
+---
+
+<div>
+
+### Conclusion 
+
+-   Prospect theory is a critique of expected utility theory
+
+-   
+
+</div>
