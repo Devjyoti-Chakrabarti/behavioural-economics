@@ -11,7 +11,7 @@ format:
 
 <div>
 
-### Recap 
+### Recap
 
 -   People don't have unlimited cognitive abilities and limited attention to make decisions (bounded rationality)
 
@@ -21,11 +21,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Today's Agenda 
+### Today's Agenda
 
 -   Delve deeper into these heuristics
 
@@ -37,21 +37,21 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### A Slight Detour 
+### A Slight Detour
 
 -   Answer the questions given to you with the first answer that comes to your mind. You have 1 minute to answer all the questions.
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Nudge Theory 
+### Nudge Theory
 
 -   Highly recommended reading: Thinking, Fast and Slow by Daniel Kahneman
 
@@ -65,27 +65,27 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ::: {style="text-align:center"}
-+-----------------------------------------------+------------------------------+
-| Automatic System (System 1)                   | Reflective System (System 2) |
-+:=============================================:+:============================:+
-| Uncontrolled                                  | Controlled                   |
-|                                               |                              |
-| Effortless                                    | Effortful                    |
-|                                               |                              |
-| Associative                                   | Deductive                    |
-|                                               |                              |
-| Fast                                          | Slow                         |
-|                                               |                              |
-| Unconscious                                   | Self-aware                   |
-|                                               |                              |
-| Skilled \                                     | Rule-following \             |
-+-----------------------------------------------+------------------------------+
++-----------------------------+------------------------------+
+| Automatic System (System 1) | Reflective System (System 2) |
++:===========================:+:============================:+
+| Uncontrolled                | Controlled                   |
+|                             |                              |
+| Effortless                  | Effortful                    |
+|                             |                              |
+| Associative                 | Deductive                    |
+|                             |                              |
+| Fast                        | Slow                         |
+|                             |                              |
+| Unconscious                 | Self-aware                   |
+|                             |                              |
+| Skilled\                    | Rule-following\              |
++-----------------------------+------------------------------+
 :::
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -99,10 +99,9 @@ format:
 
 </div>
 
-[^1]: Philip Lieberman, Human Language and Our Reptilian Brain (Cambridge, MA: Harvard University Press, 2002); Joseph LeDoux, “The Emotional Brain, Fear, and the Amygdala,” Cellular and Molecular Neurobiology 23, no. 4–5 (2003): 727–38.
-    \
+[^1]: Philip Lieberman, Human Language and Our Reptilian Brain (Cambridge, MA: Harvard University Press, 2002); Joseph LeDoux, “The Emotional Brain, Fear, and the Amygdala,” Cellular and Molecular Neurobiology 23, no. 4–5 (2003): 727–38.\
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -116,11 +115,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### More examples of both systems 
+### More examples of both systems
 
 1.  When told the temperature in Celsius, most people have an Automatic System reaction while interpreting temperature in Fahrenheit requires use of the Reflective System
 
@@ -128,23 +127,23 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
 ### Back to the Detour (Cognitive Reflection Test)[^2]
 
-1.   A bat and ball cost \$1.10 in total. The bat costs \$1.00 more than the ball. How much does the ball cost?
+1.  A bat and ball cost \$1.10 in total. The bat costs \$1.00 more than the ball. How much does the ball cost?
 
 2.  If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
 
-3.   Mary’s mother had four children. The youngest three are named: Spring, Summer, and Autumn. What is the eldest child’s name? \
+3.  Mary’s mother had four children. The youngest three are named: Spring, Summer, and Autumn. What is the eldest child’s name?\
 
 </div>
 
 [^2]: Thaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -154,13 +153,12 @@ format:
 
 </div>
 
-[^3]: Shane Frederick, “Cognitive Reflection and Decision Making,” Journal of Economic Perspectives 19, no. 4 (2005): 25–42.
-    \
+[^3]: Shane Frederick, “Cognitive Reflection and Decision Making,” Journal of Economic Perspectives 19, no. 4 (2005): 25–42.\
 
----
+------------------------------------------------------------------------
 
 ::: {style="font-size: 0.875em"}
-### What is the Nudge in Nudge Theory 
+### What is the Nudge in Nudge Theory
 
 -   So far we have seen that because people can't think deeply about each choice they face so they tend to accept questions as they are framed instead of trying to consider answers under alternative formulations.
 
@@ -171,10 +169,10 @@ format:
 
 [^4]: <https://news.uchicago.edu/explainer/what-is-behavioral-economics>
 
----
+------------------------------------------------------------------------
 
 ::: {.nonincremental style="font-size: 0.775em"}
-### Examples of Nudges  {.nonincremental}
+### Examples of Nudges {.nonincremental}
 
 -   Nudges through provision of information
 
@@ -197,10 +195,10 @@ format:
 
 [^5]: Cotton V, Patel MS. Gamification Use and Design in Popular Health and Fitness Mobile Applications. Am J Health Promot. 2019 Mar;33(3):448-451. doi: 10.1177/0890117118790394. Epub 2018 Jul 26. PMID: 30049225; PMCID: PMC6348030.
 
----
+------------------------------------------------------------------------
 
 ::: {style="font-size: 0.775em"}
-### Social Nudges 
+### Social Nudges
 
 -   Social influence is one of the most effective ways to nudge
 
@@ -219,11 +217,11 @@ format:
     -   American judicial system
 :::
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Conclusion 
+### Conclusion
 
 -   People can be nudged to make certain choices and decisions
 
@@ -235,11 +233,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Prospect Theory[^6] 
+### Prospect Theory[^6]
 
 -   Emerging out of a series of empirical results, it is a critique of the expected utility theory for analyzing choices under uncertainty.
 
@@ -249,29 +247,29 @@ format:
 
 [^6]: Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, *47*(2), 263–291. https://doi.org/10.2307/1914185
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Certainty Effects 
+### Certainty Effects
 
 -   In expected utility theory, the utilities of outcomes are weighted by their probabilities.
 
 -   Problem 1: Choose between
 
-    +-----------------------+----------------------+
-    | A                     | **B**                |
-    +:=====================:+:====================:+
-    | 2500 with prob. 0.33  | 2400 with certainty  |
-    |                       |                      |
-    | 2400 with prob 0.66   |                      |
-    |                       |                      |
-    | 0 with prob. 0.01     |                      |
-    +-----------------------+----------------------+
+    +----------------------+---------------------+
+    | A                    | **B**               |
+    +:====================:+:===================:+
+    | 2500 with prob. 0.33 | 2400 with certainty |
+    |                      |                     |
+    | 2400 with prob 0.66  |                     |
+    |                      |                     |
+    | 0 with prob. 0.01    |                     |
+    +----------------------+---------------------+
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ::: {style="font-size: 0.775em"}
 -   Problem 2: Choose between
@@ -298,23 +296,23 @@ format:
 -   Certainty effect: people overweight outcomes that are considered certain, relative to outcomes which are merely probable. Certainty increases the aversiveness of losses as well as the desirability of gains.
 :::
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Loss Aversion 
+### Loss Aversion
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Reference Dependence 
+### Reference Dependence
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -322,11 +320,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Conclusion 
+### Conclusion
 
 -   Prospect theory is a critique of expected utility theory
 

@@ -33,7 +33,7 @@ The course aims to start from the core assumptions which are often made in econo
     -   Day 2. [Into the World of (ir)Rationality](w1_day2.qmd){style="text-decoration: none"}
     -   Day 3. [Bounds of Rationality](w1_day3.qmd){style="text-decoration: none"}
     -   Day 4. Trip to the Fitzwilliam Museum
-    -   Day 5. [All About Heuristics](w1_day5.qmd){style="text-decoration: none"}
+    -   Day 5. All About Heuristics
 
 ### Reading
 
