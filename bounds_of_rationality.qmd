@@ -11,7 +11,7 @@ format:
 
 <div>
 
-### Recap 
+### Recap
 
 -   There is a divergence between the predictions of standard economics models and observed human behaviour
 
@@ -23,7 +23,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -35,7 +35,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -45,11 +45,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Bounded Rationality 
+### Bounded Rationality
 
 -   "Since we have only so much brainpower, and only so much time, we cannot be expected to solve difficult problems optimally. It is eminently “rational” for people to adopt rules of thumb as a way to economize on cognitive faculties. Yet the standard model ignores these bounds and hence the heuristics commonly used. "[^1]
 
@@ -61,7 +61,7 @@ format:
 
 [^1]: Mullainathan, Sendhil and Thaler, Richard H., Behavioral Economics (October 2000). NBER Working Paper No. w7948, Available at SSRN: <https://ssrn.com/abstract=245733>
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -73,7 +73,7 @@ format:
 
 [^2]: Benartzi, Shlomo, and Richard Thaler. 2007. "Heuristics and Biases in Retirement Savings Behavior." Journal of Economic Perspectives, 21 (3): 81–104**.**
 
----
+------------------------------------------------------------------------
 
 ::: {style="font-size: 0.875em"}
 ### Heuristics and Bias
@@ -99,7 +99,7 @@ format:
     9.  Herding
 :::
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -111,11 +111,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Example: Judgements of Life Satisfaction[^3] 
+### Example: Judgements of Life Satisfaction[^3]
 
 -   Freshmen and sophomores at the University of Illinois were asked two questions
 
@@ -129,7 +129,7 @@ format:
 
 [^3]: Fritz Strack, Leonard L. Martin, and Norbert Schwarz, “Priming and Communication: Social Determinants of Information Use in Judgments of Life Satisfaction,” European Journal of Social Psychology 18, no. 5 (1988): 429–42.
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -137,11 +137,11 @@ format:
 
 -   People rely on immediate examples that come to mind when evaluating a specific topic, decision or method. Inherently if there is something that can be recalled it must be more important than alternative prospects not so easily recalled.
 
--   Example: Biased assessments of risk can perversely influence how we prepare for and respond to crises, business choices, and the political process. Such misperceptions can affect policy, because some governments will allocate their resources in a way that fits with people’s fears rather than in response to the most likely dangers. \
+-   Example: Biased assessments of risk can perversely influence how we prepare for and respond to crises, business choices, and the political process. Such misperceptions can affect policy, because some governments will allocate their resources in a way that fits with people’s fears rather than in response to the most likely dangers.\
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ::: {.nonincremental style="font-size: 0.875em"}
 ### Example: Disaster Insurance[^4][^5]
@@ -155,7 +155,7 @@ format:
 
 [^5]: Lo, A. (2013). “The Role of Social Norms in Climate Adaptation: Mediating Risk Perception and Flood Insurance Purchase.” Global Environmental Change 23(5): 1249-1257.
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -163,12 +163,11 @@ format:
 
 -   Also called the similarity heuristic. The idea is that when asked to judge how likely it is that A belongs to category B, people answer by asking themselves how similar A is to their image or stereotype of B (that is, how “representative” A is of B).
 
--   Like the other heuristics, while it can work in some situations it can also lead to major errors.
-    \
+-   Like the other heuristics, while it can work in some situations it can also lead to major errors.\
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ::: {style="font-size: 0.875em"}
 ### Example: Feminist Bank Tellers[^6]
@@ -182,7 +181,7 @@ format:
 
 [^6]: Amos Tversky and Daniel Kahneman, “Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment,” Psychological Review 90, no. 4 (1983) 293–315
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -192,14 +191,13 @@ format:
 
 -   People tend to overestimate their abilities and their personal immunity to harm, distorting decisions regarding risk-taking.
 
--   Example: A study done of professors at the University of Nebraska found that about 94 percent of professors at a large university believed they were better than the average professor.[^7]
-    \
+-   Example: A study done of professors at the University of Nebraska found that about 94 percent of professors at a large university believed they were better than the average professor.[^7]\
 
 </div>
 
 [^7]: Paul C. Price, “Are You as Good a Teacher as You Think?” Thought & Action, Fall 2006, <https://csm.fresnostate.edu/psych/documents/research/Price_2006.pdf>
 
----
+------------------------------------------------------------------------
 
 ::: {style="font-size: 0.875em"}
 ### Example: Above average MBA students?[^8]
@@ -213,7 +211,7 @@ format:
 
 [^8]: Thaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -225,7 +223,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ::: {style="font-size: 0.875em"}
 ### Example: Retirement Savings Plans[^9]
@@ -237,11 +235,11 @@ format:
 
 [^9]: Samuelson and Zeckhauser, “Status Quo Bias in Decision Making.
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Commitment Bias/Sunk Cost Fallacy 
+### Commitment Bias/Sunk Cost Fallacy
 
 -   A human behaviour pattern where even in the face of negative outcomes from a decision, action or investment people continue the behaviour instead of altering their decision.
 
@@ -249,7 +247,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -261,7 +259,7 @@ format:
 
 [^10]: Staw, B. M., & Hoang, H. (1995). Sunk cost in the NBA: Why draft order affects playing time and survival in pro-fessional basketball. Administrative Science Quarterly, 40, 474–493
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -271,11 +269,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Authority Bias 
+### Authority Bias
 
 -   People are more influenced by opinions spoken by someone with authority and attribute greater accuracy to such opinions.
 
@@ -285,7 +283,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -303,7 +301,7 @@ format:
 
 <div>
 
-### Conclusion 
+### Conclusion
 
 -   People don't have unlimited cognitive abilities to make decisions
 

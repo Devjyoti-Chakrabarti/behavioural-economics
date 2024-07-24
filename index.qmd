@@ -37,7 +37,7 @@ The course aims to start from the core assumptions which are often made in econo
 
 ### Reading
 
----
+------------------------------------------------------------------------
 
 Thaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.
 

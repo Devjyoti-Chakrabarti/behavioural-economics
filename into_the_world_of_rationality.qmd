@@ -27,7 +27,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -56,13 +56,13 @@ format:
 ::: {.nonincremental style="font-size: 0.875em"}
 Assumptions about the agent:
 
-1.  has well defined preferences and beliefs
+1.  has well defined preferences
 
     -   unlimited willpower
 
     -   purely self-interested
 
-2.  can make optimal choices given their preferences and beliefs
+2.  can make optimal choices given their preferences
 
     -   unlimited cognitive abilities
 :::
@@ -100,22 +100,22 @@ Possible relaxations of standard model to accommodate humans:
 
 [^1]: <https://news.uchicago.edu/explainer/what-is-behavioral-economics>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Time discounting 
+### Time discounting
 
 -   We value the future less than the present. Conversely, we tend to overweight the present compared to any period in the future, i.e. we are “present-biased”.
 
 -   Example: Saving decisions
 
-    People would rather take £110 in 35 days over £100 in 30 days.\
-    But they would prefer to take £100 now over £110 given 5 days later.
+    Would you rather take £110 in 35 days over £100 in 30 days?\
+    What about taking £100 now over £110 given 5 days later?
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -131,7 +131,7 @@ Possible relaxations of standard model to accommodate humans:
 
 [^2]: <https://news.uchicago.edu/explainer/what-is-behavioral-economics>
 
----
+------------------------------------------------------------------------
 
 ::: {.incremental style="font-size: 0.875em"}
 ### Framing Effects
