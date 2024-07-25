@@ -217,7 +217,7 @@ format:
 
 ### Staus Quo Bias
 
--   Loss aversion: people dislike losses more than thte like gains. So in many situations, people show a tendency for sticking to the current situation.
+-   Loss aversion: people dislike losses more than they like gains. So in many situations, people show a tendency for sticking to the current situation.
 
 -   A particular cause of this bias is the "yeah, whatever" heuristic. Example: Netflix TV shows.
 
