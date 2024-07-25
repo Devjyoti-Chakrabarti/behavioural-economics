@@ -215,7 +215,7 @@ format:
 
 <div>
 
-### Staus Quo Bias
+### Status Quo Bias
 
 -   Loss aversion: people dislike losses more than they like gains. So in many situations, people show a tendency for sticking to the current situation.
 
@@ -310,6 +310,8 @@ format:
 -   Example: Covid-19, stock market bubbles
 
 </div>
+
+---
 
 <div>
 
