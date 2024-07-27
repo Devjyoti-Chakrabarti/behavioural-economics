@@ -12,7 +12,7 @@ theme: lux
 
 We have been thinking about the bias that are created by heuristics/mental shortcuts in the decision making process. We now want to take a step back to consider why is it that we think the way we do and how does that make our decisions susceptible to being influenced. In this regard, we explore two prominent theories of behavioural economics; nudge theory and prospect theory.
 
-The slides for this lecture can be found here: [Slides](all_about_heuristics.qmd)
+The slides for this lecture can be found here: [Slides](all_about_heuristics.qmd){style="text-decoration:none"}
 
 ### Additional Reading
 
@@ -20,4 +20,4 @@ The slides for this lecture can be found here: [Slides](all_about_heuristics.qmd
 
 Read Chapter 5 Choice Architecture from the book Nudge by Richard Thaler. You can find the chapter here:
 
-[Chapter 5: Choice Architecture](Nudge_Richard Thaler_Chapter 5 Choice Architecture.pdf)
+[Chapter 5: Choice Architecture](Nudge_Richard Thaler_Chapter 5 Choice Architecture.pdf){style="text-decoration:none"}
