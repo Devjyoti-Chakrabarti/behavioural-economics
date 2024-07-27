@@ -17,3 +17,7 @@ The slides for this lecture can be found here: [Slides](all_about_heuristics.qmd
 ### Additional Reading
 
 ------------------------------------------------------------------------
+
+Read Chapter 5 Choice Architecture from the book Nudge by Richard Thaler. You can find the chapter here:
+
+[Chapter 5: Choice Architecture](Nudge_Richard Thaler_Chapter 5 Choice Architecture.pdf)

@@ -299,11 +299,11 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
-### Herding Bias 
+### Herding Bias
 
 -   When people rationalise a course of action based on the fact that many other people are doing the same. We have a strong desire to follow what other people do
 
@@ -311,7 +311,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
