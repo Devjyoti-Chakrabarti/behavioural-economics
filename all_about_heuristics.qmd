@@ -67,26 +67,6 @@ format:
 
 ------------------------------------------------------------------------
 
-::: {style="text-align:center"}
-+-----------------------------+------------------------------+
-| Automatic System (System 1) | Reflective System (System 2) |
-+:===========================:+:============================:+
-| Uncontrolled                | Controlled                   |
-|                             |                              |
-| Effortless                  | Effortful                    |
-|                             |                              |
-| Associative                 | Deductive                    |
-|                             |                              |
-| Fast                        | Slow                         |
-|                             |                              |
-| Unconscious                 | Self-aware                   |
-|                             |                              |
-| Skilled\                    | Rule-following\              |
-+-----------------------------+------------------------------+
-:::
-
-------------------------------------------------------------------------
-
 <div>
 
 ### Automatic System (System 1)
@@ -112,6 +92,28 @@ format:
 -   Example: whats 239 \* 196
 
 -   The Automatic System can be thought of as your gut feeling while the reflective system is your conscious thought.
+
+</div>
+
+------------------------------------------------------------------------
+
+<div>
+
++-----------------------------+------------------------------+
+| Automatic System (System 1) | Reflective System (System 2) |
++=============================+:============================:+
+| Uncontrolled                | Controlled                   |
+|                             |                              |
+| Effortless                  | Effortful                    |
+|                             |                              |
+| Associative                 | Deductive                    |
+|                             |                              |
+| Fast                        | Slow                         |
+|                             |                              |
+| Unconscious                 | Self-aware                   |
+|                             |                              |
+| Skilled                     | Rule-following               |
++-----------------------------+------------------------------+
 
 </div>
 
@@ -299,22 +301,16 @@ format:
 ------------------------------------------------------------------------
 
 ::: {style="font-size: 0.875em"}
-### Isolation Effect 
+### Isolation Effect
 
--   In order to simplify the choice between alternatives, people often disregard
-    components that the alternatives share, and focus on the components that
-    distinguish them
+-   In order to simplify the choice between alternatives, people often disregard components that the alternatives share, and focus on the components that distinguish them
 
--   Consider the following two-stage game. In the first stage, there is
-    a probability of .75 to end the game without winning anything, and a probability of
-    .25 to move into the second stage. If you reach the second stage you have a choice
-    between a 80 percent chance of getting 4000 or 3000 with certainty.
+-   Consider the following two-stage game. In the first stage, there is a probability of .75 to end the game without winning anything, and a probability of .25 to move into the second stage. If you reach the second stage you have a choice between a 80 percent chance of getting 4000 or 3000 with certainty.
 
--   Of 141 subjects who answered Problem 10, 78 per cent chose the latter
-    prospect
+-   Of 141 subjects who answered Problem 10, 78 per cent chose the latter prospect
 :::
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -342,7 +338,7 @@ format:
 
 [^7]: https://www.labiotech.eu/medical/oxitec-dengue-zika-brazil/
 
----
+------------------------------------------------------------------------
 
 <div>
 
@@ -360,7 +356,7 @@ format:
 
 <div>
 
-### Back to Framing Effects Study 
+### Back to Framing Effects Study
 
 -   Program A: 200 people will be saved \[72%\]
 
@@ -372,7 +368,7 @@ format:
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div>
 
