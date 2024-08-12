@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "w1_day3.html",
-    "href": "w1_day3.html",
-    "title": "Day 3: Bounds of Rationality",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Behavioural Economics Cambridge Tradition 2024",
     "section": "",
-    "text": "Overview\n\nRationality has its limits. People do not have unlimited cognitive abilities to carefully consider all options before making decisions. So people take shortcuts to simplify the decision making process. However, these shortcuts can be the source of some major bias and errors. We begin this lecture by discussing what bounded rationality is in economics and then go on to discuss about some of these important shortcuts and biases.\nThe slides for this lecture can be found here: Slides\n\n\nAdditional Reading\n\nThis is a collection of cognitive biases with some very interesting examples: https://thedecisionlab.com/biases\nRead about any two that interest you.\nAlso watch this video about a common cognitive bias: https://www.youtube.com/watch?v=vKA4w2O61Xo"
-  },
-  {
-    "objectID": "w1_day5.html",
-    "href": "w1_day5.html",
-    "title": "Day 5: All About Heuristics",
-    "section": "",
-    "text": "Overview\n\nWe have been thinking about the bias that are created by heuristics/mental shortcuts in the decision making process. We now want to take a step back to consider why is it that we think the way we do and how does that make our decisions susceptible to being influenced. In this regard, we explore two prominent theories of behavioural economics; nudge theory and prospect theory.\nThe slides for this lecture can be found here: Slides\n\n\nAdditional Reading\n\nRead Chapter 5 Choice Architecture from the book Nudge by Richard Thaler. You can find the chapter here:\nChapter 5: Choice Architecture"
+    "text": "“We think, each of us, that we’re much more rational than we are.”\n– Daniel Kahneman\n\n\n“The purely economic man is indeed close to being a social moron. Economic theory has been much preoccupied with this rational fool.”\n– Amartya Sen\n\n\nOverview\n\nIn recent decades, economics has increasingly relied on quantitative models to understand and explore economic phenomena. Central to many of these models is the idea that agents act as rational beings and make rational choices. The emergence of behavioural economics is contextualized as a question of validity to such assumptions and a response to addressing some critical problems that irrationality raises in economic modelling. Integral to this endeavor is understanding the difference between homo-economicus (the economic man) and homo-sapiens (real humans). It is crucial to understand why economic models that assume agents behave as homo-economicus often fail in real life.\nThe course aims to start from the core assumptions which are often made in economics and then moves on to systematically understand why these are flawed. We then discuss some of the core themes and concepts in behavioural economics. The course aims to explain all these topics using real world examples to show why behavioural economics makes a difference. We then cover the role of behavioural economics in different areas beyond economics.\n\n\nLecture Content\n\n\nWeek 1. Homo-economicus OR Homo-sapiens\n\nDay 1. Introductions\nDay 2. Into the World of (ir)Rationality\nDay 3. Bounds of Rationality\nDay 4. Trip to the Fitzwilliam Museum\nDay 5. All About Heuristics\n\n\n\n\nReading\n\nThaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.\nThaler, R. H. (2015). Misbehaving: The making of behavioral economics. W W Norton & Co.\nKahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.\n\n\nAssessment\n\nStudents will be split into groups of 2 and will be required to research into any industry/theme of their choosing seeing how behavioural economics is used in that industry and come up with ideas about how they can concepts from behavioural economics in that industry. The students will be evaluated based on their presentations of their research in class and a short writeup that would be submitted to the instructor about their research."
   },
   {
     "objectID": "into_the_world_of_rationality.html#activity-time",
@@ -21,17 +14,24 @@
     "text": "Activity Time"
   },
   {
+    "objectID": "w1_day5.html",
+    "href": "w1_day5.html",
+    "title": "Day 5: All About Heuristics",
+    "section": "",
+    "text": "Overview\n\nWe have been thinking about the bias that are created by heuristics/mental shortcuts in the decision making process. We now want to take a step back to consider why is it that we think the way we do and how does that make our decisions susceptible to being influenced. In this regard, we explore two prominent theories of behavioural economics; nudge theory and prospect theory.\nThe slides for this lecture can be found here: Slides\n\n\nAdditional Reading\n\nRead Chapter 5 Choice Architecture from the book Nudge by Richard Thaler. You can find the chapter here:\nChapter 5: Choice Architecture"
+  },
+  {
+    "objectID": "w1_day3.html",
+    "href": "w1_day3.html",
+    "title": "Day 3: Bounds of Rationality",
+    "section": "",
+    "text": "Overview\n\nRationality has its limits. People do not have unlimited cognitive abilities to carefully consider all options before making decisions. So people take shortcuts to simplify the decision making process. However, these shortcuts can be the source of some major bias and errors. We begin this lecture by discussing what bounded rationality is in economics and then go on to discuss about some of these important shortcuts and biases.\nThe slides for this lecture can be found here: Slides\n\n\nAdditional Reading\n\nThis is a collection of cognitive biases with some very interesting examples: https://thedecisionlab.com/biases\nRead about any two that interest you.\nAlso watch this video about a common cognitive bias: https://www.youtube.com/watch?v=vKA4w2O61Xo"
+  },
+  {
     "objectID": "w1_day2.html",
     "href": "w1_day2.html",
     "title": "Day 2: Into the World of (ir)Rationality",
     "section": "",
     "text": "Overview\n\nRationality is one of the most over-used words in economics and a recurring assumption in a lot of influential models in the discipline. Assuming that agents seek to maximize their benefit appears at first glance to be intuitive and even reasonable. However a careful peeling away of the layers of what rationality means leads to the unraveling of some of these models. This lecture introduces this tenet of economics and marks the beginning of our two week journey of exploring the depths of nuance this over-used word holds.\nThe slides for this lecture can be found here: Slides\n\n\nAdditional Reading\n\nhttps://hbr.org/2009/07/the-end-of-rational-economics\nhttps://www.youtube.com/watch?v=Xb1LOEzw9qs\nTversky, A., & Kahneman, D. (1981). The Framing of Decisions and the Psychology of Choice. Science, 211(4481), 453–458. http://www.jstor.org/stable/1685855 (Not Compulsory)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Behavioural Economics Cambridge Tradition 2024",
-    "section": "",
-    "text": "“We think, each of us, that we’re much more rational than we are.”\n– Daniel Kahneman\n\n\n“The purely economic man is indeed close to being a social moron. Economic theory has been much preoccupied with this rational fool.”\n– Amartya Sen\n\n\nOverview\n\nIn recent decades, economics has increasingly relied on quantitative models to understand and explore economic phenomena. Central to many of these models is the idea that agents act as rational beings and make rational choices. The emergence of behavioural economics is contextualized as a question of validity to such assumptions and a response to addressing some critical problems that irrationality raises in economic modelling. Integral to this endeavor is understanding the difference between homo-economicus (the economic man) and homo-sapiens (real humans). It is crucial to understand why economic models that assume agents behave as homo-economicus often fail in real life.\nThe course aims to start from the core assumptions which are often made in economics and then moves on to systematically understand why these are flawed. We then discuss some of the core themes and concepts in behavioural economics. The course aims to explain all these topics using real world examples to show why behavioural economics makes a difference. We then cover the role of behavioural economics in different areas beyond economics.\n\n\nLecture Content\n\n\nWeek 1. Homo-economicus OR Homo-sapiens\n\nDay 1. Introductions\nDay 2. Into the World of (ir)Rationality\nDay 3. Bounds of Rationality\nDay 4. Trip to the Fitzwilliam Museum\nDay 5. All About Heuristics\n\n\n\n\nReading\n\nThaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.\nThaler, R. H. (2015). Misbehaving: The making of behavioral economics. W W Norton & Co.\nKahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.\n\n\nAssessment\n\nStudents will be split into groups of 2 and will be required to research into any industry/theme of their choosing seeing how behavioural economics is used in that industry and come up with ideas about how they can concepts from behavioural economics in that industry. The students will be evaluated based on their presentations of their research in class and a short writeup that would be submitted to the instructor about their research."
   }
 ]
