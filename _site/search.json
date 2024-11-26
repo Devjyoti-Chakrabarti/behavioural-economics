@@ -2,8 +2,110 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MPhil Thesis",
+    "title": "Behavioural Economics Cambridge Tradition 2024",
     "section": "",
+<<<<<<< HEAD
     "text": "hello\n\nprint(2+1)\n\n3"
+=======
+    "text": "“We think, each of us, that we’re much more rational than we are.”\n– Daniel Kahneman\n\n\n“The purely economic man is indeed close to being a social moron. Economic theory has been much preoccupied with this rational fool.”\n– Amartya Sen\n\n\nOverview\n\nIn recent decades, economics has increasingly relied on quantitative models to understand and explore economic phenomena. Central to many of these models is the idea that agents act as rational beings and make rational choices. The emergence of behavioural economics is contextualized as a question of validity to such assumptions and a response to addressing some critical problems that irrationality raises in economic modelling. Integral to this endeavor is understanding the difference between homo-economicus (the economic man) and homo-sapiens (real humans). It is crucial to understand why economic models that assume agents behave as homo-economicus often fail in real life.\nThe course aims to start from the core assumptions which are often made in economics and then moves on to systematically understand why these are flawed. We then discuss some of the core themes and concepts in behavioural economics. The course aims to explain all these topics using real world examples to show why behavioural economics makes a difference. We then cover the role of behavioural economics in different areas beyond economics.\n\n\nLecture Content\n\n\nWeek 1. Homo-economicus OR Homo-sapiens\n\nDay 1. Introductions\nDay 2. Into the World of (ir)Rationality\nDay 3. Bounds of Rationality\nDay 4. Trip to the Fitzwilliam Museum\nDay 5. All About Heuristics\n\n\n\n\nReading\n\nThaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.\nThaler, R. H. (2015). Misbehaving: The making of behavioral economics. W W Norton & Co.\nKahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.\n\n\nAssessment\n\nStudents will be split into groups of 2 and will be required to research into any industry/theme of their choosing seeing how behavioural economics is used in that industry and come up with ideas about how they can concepts from behavioural economics in that industry. The students will be evaluated based on their presentations of their research in class and a short writeup that would be submitted to the instructor about their research."
+  },
+  {
+    "objectID": "day2.html",
+    "href": "day2.html",
+    "title": "Day 2: Into the World of (ir)Rationality",
+    "section": "",
+    "text": "Overview\n\n\n\nAdditional Reading"
+  },
+  {
+    "objectID": "day5.html",
+    "href": "day5.html",
+    "title": "Behavioural Economics",
+    "section": "",
+    "text": "Hello World"
+  },
+  {
+    "objectID": "day3.html",
+    "href": "day3.html",
+    "title": "Behavioural Economics",
+    "section": "",
+    "text": "Hello World"
+  },
+  {
+    "objectID": "into_the_world_of_rationality.html#framing-effects",
+    "href": "into_the_world_of_rationality.html#framing-effects",
+    "title": "Day 2: Into the World of (ir)Rationality",
+    "section": "Framing Effects",
+    "text": "Framing Effects\nTversky & Kahneman (1981)\nImagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows:\n\nProgram A: 200 people will be saved\nProgram B: \\(1/3\\) probability 600 will be saved, \\(2/3\\) probability that no people will be saved\n72 percent choose Program A and 28 percent choose Program B [N=152]"
+  },
+  {
+    "objectID": "w1_day2.html",
+    "href": "w1_day2.html",
+    "title": "Day 2: Into the World of (ir)Rationality",
+    "section": "",
+    "text": "Overview\n\nRationality is one of the most over-used words in economics and a recurring assumption in a lot of influential models in the discipline. Assuming that agents seek to maximize their benefit appears at first glance to be intuitive and even reasonable. However a careful peeling away of the layers of what rationality means leads to the unraveling of some of these models. This lecture introduces this tenet of economics and marks the beginning of our two week journey of exploring the depths of nuance this over-used word holds.\nThe slides for this lecture can be found here: Slides\n\n\nAdditional Reading\n\nhttps://hbr.org/2009/07/the-end-of-rational-economics\nhttps://www.youtube.com/watch?v=Xb1LOEzw9qs\nTversky, A., & Kahneman, D. (1981). The Framing of Decisions and the Psychology of Choice. Science, 211(4481), 453–458. http://www.jstor.org/stable/1685855 (Not Compulsory)"
+  },
+  {
+    "objectID": "w1_day5.html",
+    "href": "w1_day5.html",
+    "title": "Day 5: All About Heuristics",
+    "section": "",
+    "text": "Overview\n\nWe have been thinking about the bias that are created by heuristics/mental shortcuts in the decision making process. We now want to take a step back to consider why is it that we think the way we do and how does that make our decisions susceptible to being influenced. In this regard, we explore two prominent theories of behavioural economics; nudge theory and prospect theory.\nThe slides for this lecture can be found here: Slides\n\n\nAdditional Reading\n\nRead Chapter 5 Choice Architecture from the book Nudge by Richard Thaler. You can find the chapter here:\nChapter 5: Choice Architecture"
+  },
+  {
+    "objectID": "w1_day3.html",
+    "href": "w1_day3.html",
+    "title": "Day 3: Bounds of Rationality",
+    "section": "",
+    "text": "Overview\n\nRationality has its limits. People do not have unlimited cognitive abilities to carefully consider all options before making decisions. So people take shortcuts to simplify the decision making process. However, these shortcuts can be the source of some major bias and errors. We begin this lecture by discussing what bounded rationality is in economics and then go on to discuss about some of these important shortcuts and biases.\nThe slides for this lecture can be found here: Slides\n\n\nAdditional Reading\n\nThis is a collection of cognitive biases with some very interesting examples: https://thedecisionlab.com/biases\nRead about any two that interest you.\nAlso watch this video about a common cognitive bias: https://www.youtube.com/watch?v=vKA4w2O61Xo"
+  },
+  {
+    "objectID": "into_the_world_of_rationality.html",
+    "href": "into_the_world_of_rationality.html",
+    "title": "Day 2: Into the World of (ir)Rationality",
+    "section": "",
+    "text": "Shepard tables"
+  },
+  {
+    "objectID": "into_the_world_of_rationality.html#activity-time",
+    "href": "into_the_world_of_rationality.html#activity-time",
+    "title": "Day 2: Into the World of (ir)Rationality",
+    "section": "Activity Time",
+    "text": "Activity Time"
+  },
+  {
+    "objectID": "all_about_heuristics.html",
+    "href": "all_about_heuristics.html",
+    "title": "Day 5: All About Heuristics",
+    "section": "",
+    "text": "People don’t have unlimited cognitive abilities and limited attention to make decisions (bounded rationality)\nTo make the decision making process simpler, people rely on heuristics/mental shortcuts\nAlthough convenient, these shortcuts can be the source of many major errors and biases"
+  },
+  {
+    "objectID": "all_about_heuristics.html#footnotes",
+    "href": "all_about_heuristics.html#footnotes",
+    "title": "Day 5: All About Heuristics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPhilip Lieberman, Human Language and Our Reptilian Brain (Cambridge, MA: Harvard University Press, 2002); Joseph LeDoux, “The Emotional Brain, Fear, and the Amygdala,” Cellular and Molecular Neurobiology 23, no. 4–5 (2003): 727–38.\n↩︎\nThaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.↩︎\nShane Frederick, “Cognitive Reflection and Decision Making,” Journal of Economic Perspectives 19, no. 4 (2005): 25–42.\n↩︎\nhttps://news.uchicago.edu/explainer/what-is-behavioral-economics↩︎\nCotton V, Patel MS. Gamification Use and Design in Popular Health and Fitness Mobile Applications. Am J Health Promot. 2019 Mar;33(3):448-451. doi: 10.1177/0890117118790394. Epub 2018 Jul 26. PMID: 30049225; PMCID: PMC6348030.↩︎\nKahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263–291. https://doi.org/10.2307/1914185↩︎\nhttps://www.labiotech.eu/medical/oxitec-dengue-zika-brazil/↩︎"
+  },
+  {
+    "objectID": "bounds_of_rationality.html",
+    "href": "bounds_of_rationality.html",
+    "title": "Day 3: Bounds of Rationality",
+    "section": "",
+    "text": "There is a divergence between the predictions of standard economics models and observed human behaviour\nThe assumption of rationality has its limits; bounded willpower, self-interest, rationality\nExpected Utility Theory\nFraming effects"
+  },
+  {
+    "objectID": "bounds_of_rationality.html#footnotes",
+    "href": "bounds_of_rationality.html#footnotes",
+    "title": "Day 3: Bounds of Rationality",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nMullainathan, Sendhil and Thaler, Richard H., Behavioral Economics (October 2000). NBER Working Paper No. w7948, Available at SSRN: https://ssrn.com/abstract=245733↩︎\nBenartzi, Shlomo, and Richard Thaler. 2007. “Heuristics and Biases in Retirement Savings Behavior.” Journal of Economic Perspectives, 21 (3): 81–104.↩︎\nFritz Strack, Leonard L. Martin, and Norbert Schwarz, “Priming and Communication: Social Determinants of Information Use in Judgments of Life Satisfaction,” European Journal of Social Psychology 18, no. 5 (1988): 429–42.↩︎\nHoward Kunreuther et al., Disaster Insurance Protection: Public Policy Lessons (New York: John Wiley & Sons, 1978)↩︎\nLo, A. (2013). “The Role of Social Norms in Climate Adaptation: Mediating Risk Perception and Flood Insurance Purchase.” Global Environmental Change 23(5): 1249-1257.↩︎\nAmos Tversky and Daniel Kahneman, “Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment,” Psychological Review 90, no. 4 (1983) 293–315↩︎\nPaul C. Price, “Are You as Good a Teacher as You Think?” Thought & Action, Fall 2006, https://csm.fresnostate.edu/psych/documents/research/Price_2006.pdf↩︎\nThaler, R. H., & Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.↩︎\nSamuelson and Zeckhauser, “Status Quo Bias in Decision Making.↩︎\nStaw, B. M., & Hoang, H. (1995). Sunk cost in the NBA: Why draft order affects playing time and survival in pro-fessional basketball. Administrative Science Quarterly, 40, 474–493↩︎"
+  },
+  {
+    "objectID": "into_the_world_of_rationality.html#footnotes",
+    "href": "into_the_world_of_rationality.html#footnotes",
+    "title": "Day 2: Into the World of (ir)Rationality",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://news.uchicago.edu/explainer/what-is-behavioral-economics↩︎\nhttps://news.uchicago.edu/explainer/what-is-behavioral-economics↩︎"
+>>>>>>> parent of 0faa611 (V1)
   }
 ]

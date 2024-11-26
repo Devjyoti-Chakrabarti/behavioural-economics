@@ -8,11 +8,7 @@
 
 <meta name="author" content="Devjyoti Chakrabarti">
 
-<<<<<<< HEAD
-<title>MPhil Thesis</title>
-=======
-<title>Behavioural Economics - Behavioural Economics Cambridge Tradition 2024</title>
->>>>>>> parent of 0faa611 (V1)
+<title>Behavioural Economics - Day 2: Into the World of (ir)Rationality</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -87,19 +112,23 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#lecture_content" id="toc-lecture_content" class="nav-link" data-scroll-target="#lecture_content">Lecture Content</a></li>
-  <li><a href="#reading" id="toc-reading" class="nav-link" data-scroll-target="#reading">Reading</a></li>
-  <li><a href="#assessment" id="toc-assessment" class="nav-link" data-scroll-target="#assessment">Assessment</a></li>
+  <li><a href="#rationality" id="toc-rationality" class="nav-link active" data-scroll-target="#rationality">Rationality</a></li>
+  <li><a href="#bounded-willpower" id="toc-bounded-willpower" class="nav-link" data-scroll-target="#bounded-willpower">Bounded Willpower</a></li>
+  <li><a href="#time-discounting" id="toc-time-discounting" class="nav-link" data-scroll-target="#time-discounting">Time discounting</a></li>
+  <li><a href="#bounded-self-interest" id="toc-bounded-self-interest" class="nav-link" data-scroll-target="#bounded-self-interest">Bounded Self-interest</a></li>
+  <li><a href="#framing-effects" id="toc-framing-effects" class="nav-link" data-scroll-target="#framing-effects">Framing Effects</a></li>
+  <li><a href="#caveats" id="toc-caveats" class="nav-link" data-scroll-target="#caveats">CAVEATS!</a></li>
+  <li><a href="#expected-utility-theory" id="toc-expected-utility-theory" class="nav-link" data-scroll-target="#expected-utility-theory">Expected Utility Theory</a></li>
+  <li><a href="#activity-time" id="toc-activity-time" class="nav-link" data-scroll-target="#activity-time">Activity Time</a></li>
   </ul>
-</nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="into_the_world_of_rationality.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Behavioural Economics Cambridge Tradition 2024</h1>
+<h1 class="title">Day 2: Into the World of (ir)Rationality</h1>
 </div>
 
 
@@ -108,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-meta-heading">Affiliation</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Devjyoti Chakrabarti <a href="mailto:devjyoti.chakrabarti@economics.ox.ac.uk" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+    <p class="author">Devjyoti Chakrabarti </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -129,60 +158,176 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<<<<<<< HEAD
-<p>hello</p>
-<div id="6b8782c8" class="cell" data-execution_count="1">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="dv">2</span><span class="op">+</span><span class="dv">1</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>3</code></pre>
+<div>
+<p><a href="https://en.wikipedia.org/wiki/Shepard_tables" style="text-decoration:none">Shepard tables</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clipboard-4091288017.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
 </div>
 </div>
-=======
-<blockquote class="blockquote">
-<p>“We think, each of us, that we’re much more rational than we are.”</p>
-<p>– Daniel Kahneman</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>“The purely economic man is indeed close to being a social moron. Economic theory has been much preoccupied with this rational fool.”</p>
-<p>– Amartya Sen</p>
-</blockquote>
-<section id="overview" class="level3">
-<h3 class="anchored" data-anchor-id="overview">Overview</h3>
 <hr>
-<p>In recent decades, economics has increasingly relied on quantitative models to understand and explore economic phenomena. Central to many of these models is the idea that agents act as rational beings and make rational choices. The emergence of behavioural economics is contextualized as a question of validity to such assumptions and a response to addressing some critical problems that irrationality raises in economic modelling. Integral to this endeavor is understanding the difference between homo-economicus (the economic man) and homo-sapiens (real humans). It is crucial to understand why economic models that assume agents behave as homo-economicus often fail in real life.</p>
-<p>The course aims to start from the core assumptions which are often made in economics and then moves on to systematically understand why these are flawed. We then discuss some of the core themes and concepts in behavioural economics. The course aims to explain all these topics using real world examples to show why behavioural economics makes a difference. We then cover the role of behavioural economics in different areas beyond economics.</p>
+<section id="what-animal-do-you-see-in-the-image" class="level4">
+<h4 class="anchored" data-anchor-id="what-animal-do-you-see-in-the-image">What animal do you see in the image?</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clipboard-3011836111.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
 </section>
-<section id="lecture_content" class="level3">
-<h3 class="anchored" data-anchor-id="lecture_content">Lecture Content</h3>
 <hr>
+<section id="is-the-dot-on-the-front-or-in-the-back-of-the-cube" class="level4">
+<h4 class="anchored" data-anchor-id="is-the-dot-on-the-front-or-in-the-back-of-the-cube">Is the dot on the front or in the back of the cube?</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clipboard-432469204.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section>
+<hr>
+<section id="rationality" class="level3 incremental" style="font-size: 0.875em">
+<h3 class="anchored" data-anchor-id="rationality">Rationality</h3>
 <ul>
-<li>Week 1. Homo-economicus OR Homo-sapiens
+<li><p>When faced with choices, individuals choose the option which derives them the maximum possible benefit or utility.</p></li>
+<li><p>Our Homo-Economicus solves <span class="math display">\[ \underset{x_i^t \in X_i}{\text{max}} \sum_{t=0}^{\infty} \delta^t U(x_i^t)\]</span> <span class="math inline">\(\delta:\)</span> Discount Factor</p>
+<p><span class="math inline">\(U(\cdot):\)</span> Utility Function</p>
+<p><span class="math inline">\(X:\)</span> Set of consumption bundles</p></li>
+</ul>
+</section>
+<hr>
+<div class="nonincremental" style="font-size: 0.875em">
+<p>Assumptions about the agent:</p>
+<ol type="1">
+<li><p>has well defined preferences</p>
 <ul>
-<li>Day 1. Introductions</li>
-<li>Day 2. <a href="./w1_day2.html" style="text-decoration: none">Into the World of (ir)Rationality</a></li>
-<li>Day 3. <a href="./w1_day3.html" style="text-decoration: none">Bounds of Rationality</a></li>
-<li>Day 4. Trip to the Fitzwilliam Museum</li>
-<li>Day 5. <a href="./w1_day5.html" style="text-decoration:none">All About Heuristics</a></li>
+<li><p>unlimited willpower</p></li>
+<li><p>purely self-interested</p></li>
+</ul></li>
+<li><p>can make optimal choices given their preferences</p>
+<ul>
+<li>unlimited cognitive abilities</li>
+</ul></li>
+</ol>
+</div>
+<hr>
+<div class="nonincremental" style="font-size: 0.875em">
+<p>Possible relaxations of standard model to accommodate humans:</p>
+<ol type="1">
+<li><p>Bounded Willpower</p>
+<ul>
+<li>Time preferences: <span class="math inline">\(\delta\)</span> might not be stable</li>
+<li>Risk preferences: <span class="math inline">\(U(x_i|r)\)</span> outcomes compared to some reference point <span class="math inline">\(r\)</span></li>
+</ul></li>
+<li><p>Bounded self-interest</p>
+<ul>
+<li>Social preferences: <span class="math inline">\(U(x_i, x_{-i})\)</span> agents care about others’ outcomes <span class="math inline">\(x_{-i}\)</span></li>
+</ul></li>
+<li><p>Bounded Rationality</p>
+<ul>
+<li>Limited attention, sensitivity to framing, reliance on heuristics</li>
+</ul></li>
+</ol>
+</div>
+<hr>
+<section id="bounded-willpower" class="level3">
+<h3 class="anchored" data-anchor-id="bounded-willpower">Bounded Willpower</h3>
+<ul>
+<li><p>“Even when given an understanding of the optimal choice, people will often still preferentially choose whatever brings the most short-term benefit over incremental progress toward a long-term goal.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>&nbsp;</p></li>
+<li><p>Examples: procrastination (“will start tomorrow”), smoking</p></li>
+</ul>
+</section>
+<hr>
+<section id="time-discounting" class="level3">
+<h3 class="anchored" data-anchor-id="time-discounting">Time discounting</h3>
+<ul>
+<li><p>We value the future less than the present. Conversely, we tend to overweight the present compared to any period in the future, i.e.&nbsp;we are “present-biased”.</p></li>
+<li><p>Example: Saving decisions</p>
+<p>Would you rather take £110 in 35 days over £100 in 30 days?<br>
+What about taking £100 now over £110 given 5 days later?</p></li>
+</ul>
+</section>
+<hr>
+<section id="bounded-self-interest" class="level3">
+<h3 class="anchored" data-anchor-id="bounded-self-interest">Bounded Self-interest</h3>
+<ul>
+<li><p>“People are often willing to choose a less-optimal outcome for themselves if it means they can support others.”<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p></li>
+<li><p>They care, or act as if they care, about others, even strangers, in some circumstances.</p></li>
+<li><p>Examples: charity donations, volunteering</p></li>
+</ul>
+</section>
+<hr>
+<section id="framing-effects" class="level3 incremental" style="font-size: 0.875em">
+<h3 class="anchored" data-anchor-id="framing-effects">Framing Effects</h3>
+<p>Tversky &amp; Kahneman (1981)</p>
+<p>Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows:</p>
+<ul>
+<li><p>Program A: 200 people will be saved</p>
+<p>Program B: <span class="math inline">\(1/3\)</span> probability 600 will be saved, <span class="math inline">\(2/3\)</span> probability that no people will be saved</p></li>
+<li><p>72 percent choose Program A and 28 percent choose Program B [N=152]</p></li>
+</ul>
+</section>
+<hr>
+<div>
+<ul>
+<li><p>Program C: 400 people will die</p>
+<p>Program D: <span class="math inline">\(1/3\)</span> probability nobody will die, <span class="math inline">\(2/3\)</span> probability that 600 people will die</p></li>
+<li><p>22 percent choose Program C and 78 percent choose Program D [N=155]</p></li>
+</ul>
+</div>
+<hr>
+<section id="caveats" class="level3">
+<h3 class="anchored" data-anchor-id="caveats">CAVEATS!</h3>
+<ul>
+<li><p>Adding non-standard assumptions does not imply an abandoning of traditional methods</p></li>
+<li><p>Despite limits to their empirical validity and applicability, they are sometimes appropriate (even if not exactly right)</p></li>
+<li><p>Old models get certain things wrong but they also get many things right</p></li>
+<li><p>Our goal is to integrate behavioural economics into mainstream economics</p></li>
+</ul>
+</section>
+<hr>
+<section id="expected-utility-theory" class="level3" style="font-size: 0.775em; text-align: justify">
+<h3 class="anchored" data-anchor-id="expected-utility-theory">Expected Utility Theory</h3>
+<ul>
+<li><p>Consider the following bet. A fair coin is tossed, if it lands on heads I pay you 10 pounds. However, if it lands on tails you have to pay me 10 pounds. What is your expected payoff</p>
+<p>from playing in this bet? -</p></li>
+<li><p><span class="math display">\[
+\begin{align*}
+   \text{Expected Value} &amp;= Pr(Heads) * Payoff(Heads) + \\
+&amp; Pr(Tails) * Payoff(Tails) \\
+&amp;= 0.5 * 10 + 0.5 * (-10) = 0
+\end{align*}
+\]</span></p></li>
+<li><p>We want start thinking about how people make decisions about uncertain outcomes and we do that using lotteries. Each lottery has to specify three elements:</p>
+<ul>
+<li><p>events</p></li>
+<li><p>the probability of those events and</p></li>
+<li><p>payoffs associated with those events</p></li>
 </ul></li>
 </ul>
 </section>
-<section id="reading" class="level3">
-<h3 class="anchored" data-anchor-id="reading">Reading</h3>
 <hr>
-<p>Thaler, R. H., &amp; Sunstein, C. R. (2021). Nudge: The Final Edition. Penguin Publishing.</p>
-<p>Thaler, R. H. (2015).&nbsp;<em>Misbehaving: The making of behavioral economics.</em>&nbsp;W W Norton &amp; Co.</p>
-<p>Kahneman, D. (2011).&nbsp;<em>Thinking, fast and slow.</em>&nbsp;Farrar, Straus and Giroux.</p>
-</section>
-<section id="assessment" class="level3">
-<h3 class="anchored" data-anchor-id="assessment">Assessment</h3>
+<div>
+<ul>
+<li><p>Expected Utility Theory is a reformulation of our earlier result for uncertain outcomes.</p></li>
+<li><p>It states that when faced with risky prospects, agents choose with the prospect which maximizes their expected utility.</p></li>
+<li><p>Back to framing effects</p></li>
+</ul>
+</div>
 <hr>
-<p>Students will be split into groups of 2 and will be required to research into any industry/theme of their choosing seeing how behavioural economics is used in that industry and come up with ideas about how they can concepts from behavioural economics in that industry. The students will be evaluated based on their presentations of their research in class and a short writeup that would be submitted to the instructor about their research.&nbsp;&nbsp;</p>
->>>>>>> parent of 0faa611 (V1)
-
-
+<section id="activity-time" class="level2">
+<h2 class="anchored" data-anchor-id="activity-time">Activity Time</h2>
 </section>
 
-</main> <!-- /main -->
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p><a href="https://news.uchicago.edu/explainer/what-is-behavioral-economics" class="uri">https://news.uchicago.edu/explainer/what-is-behavioral-economics</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p><a href="https://news.uchicago.edu/explainer/what-is-behavioral-economics" class="uri">https://news.uchicago.edu/explainer/what-is-behavioral-economics</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
